@@ -82,8 +82,7 @@ You don't have much to do to install TigerGraph with Ansible. Just make sure you
 ### Prerequisites
 
 This is the one thing you need to have installed to proceed further.
-* Ansible
-  [Installing Ansible](https://docs.ansible.com/ansible/latest/installation_guide/intro_installation.html)
+* Follow the [Installing Ansible](https://docs.ansible.com/ansible/latest/installation_guide/intro_installation.html) documentation to install Ansible.
   After installing, check Ansible version with following command
   ```sh
   ansible --version
