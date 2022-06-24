@@ -91,7 +91,7 @@ This is an example of how to list things you need to use the software and how to
 
 ### Installation
 
-1. Download the tar file from following google drive [link](https://drive.google.com/file/d/1aMDNV1ujpYMI663ddodsnwjMCSwzznLe/view?usp=sharing)
+1. Download the tar file from google drive link [here](https://drive.google.com/file/d/1aMDNV1ujpYMI663ddodsnwjMCSwzznLe/view?usp=sharing)
 2. Untar the download tar.gz file
    ```sh
    tar -zxvf tigergraph-3.5.3-offline-ansible-deployment.tar.gz
