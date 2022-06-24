@@ -91,7 +91,7 @@ This is the one thing you need to have installed to proceed further.
 ### Installation
 
 1. Download the tar file from google drive link [here](https://drive.google.com/file/d/1aMDNV1ujpYMI663ddodsnwjMCSwzznLe/view?usp=sharing)
-2. Untar the download tar.gz file
+2. Untar the downloaded tar.gz file
    ```sh
    tar -zxvf tigergraph-3.5.3-offline-ansible-deployment.tar.gz
    ```
@@ -99,7 +99,7 @@ This is the one thing you need to have installed to proceed further.
    ```sh
    cd tigergraph-3.5.3-offline-ansible-deployment/ansible_deployment
    ```
-4. Fill the path variable in inventory file 
+4. Fill out the path variable with correct path to extracted TigerGraph directory in inventory file 
    ```sh
    vi inventory
    path='<path-to-tigergraph-3.5.3-offline-ansible-deployment-directory>'
